@@ -1,8 +1,6 @@
 <div align="center">
 
 <img src="https://datatovalue.com/data_to_value_logo_black.png" alt="Data to Value" width="290">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://datatovalue.com/hero_image_bg.png" alt="Data to Value — Value over Time" width="390">
 
 <br><br>
 
