@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/data_to_value_logo_black.png" alt="Data to Value" width="420">
+<img src="https://datatovalue.com/data_to_value_logo_black.png" alt="Data to Value" width="290">
 
 <br><br>
 
@@ -18,7 +18,7 @@ Helping marketing teams collect, transform and activate their marketing data<br>
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/hero_image_bg.png" alt="Data to Value — Value over Time" width="700">
+<img src="https://datatovalue.com/hero_image_bg.png" alt="Data to Value — Value over Time" width="490">
 </div>
 
 <br>
