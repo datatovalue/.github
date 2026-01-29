@@ -1,24 +1,21 @@
 <div align="center">
-
+<table><tr>
+<td align="center" valign="middle">
 <img src="https://datatovalue.com/data_to_value_logo_black.png" alt="Data to Value" width="290">
-
 <br><br>
-
-**Data Solutions for Marketing Excellence**
-
-Helping marketing teams collect, transform and activate their marketing data<br>to outperform their competition. Since 2009.
-
-<br>
+<b>Data Solutions for Marketing Excellence</b>
+<br><br>
+Helping marketing teams collect, transform and<br>activate their marketing data to outperform<br>their competition. Since 2009.
+<br><br>
 
 [![Website](https://img.shields.io/badge/datatovalue.com-0045FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datatovalue.com)
 [![Blog](https://img.shields.io/badge/Blog-0045FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://datatovalue.blog)
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://datatovalue.com/hero_image_bg.png" alt="Data to Value — Value over Time" width="490">
+</td>
+<td align="center" valign="middle">
+<img src="https://datatovalue.com/hero_image_bg.png" alt="Data to Value — Value over Time" width="390">
+</td>
+</tr></table>
 </div>
 
 <br>
