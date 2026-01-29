@@ -77,7 +77,7 @@ A small team working fully remote across Europe:
 <td align="center" width="200">
 <img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/rick_avatar.png" width="100" style="border-radius:50%"><br>
 <b>Rick Dronkers</b><br>
-🇳🇱 Founder<br>
+🇳🇱 Senior Consultant<br>
 <sub>Strategy & Architecture</sub>
 </td>
 <td align="center" width="200">
@@ -112,7 +112,12 @@ A small team working fully remote across Europe:
 
 <br>
 
+📧 [info@datatovalue.com](mailto:info@datatovalue.com) · 📞 [+31 (0)6 45 53 53 53](tel:+31645535353) · 💼 [LinkedIn](https://www.linkedin.com/company/data-to-value)
+
+<br>
+
 [![Website](https://img.shields.io/badge/Website-0045FF?style=flat-square&logo=google-chrome&logoColor=white)](https://datatovalue.com)
 [![Blog](https://img.shields.io/badge/Blog-0045FF?style=flat-square&logo=hashnode&logoColor=white)](https://datatovalue.blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/data-to-value)
 
 </div>
