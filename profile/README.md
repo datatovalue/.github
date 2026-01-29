@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://datatovalue.com/data_to_value_logo_black.png" alt="Data to Value" width="420">
+<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/data_to_value_logo_black.png" alt="Data to Value" width="420">
 
 <br><br>
 
@@ -11,14 +11,14 @@ Helping marketing teams collect, transform and activate their marketing data<br>
 <br>
 
 [![Website](https://img.shields.io/badge/datatovalue.com-0045FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datatovalue.com)
-[![Blog](https://img.shields.io/badge/Blog-0045FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://datatovalue.com/blog/)
+[![Blog](https://img.shields.io/badge/Blog-0045FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://datatovalue.blog)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://datatovalue.com/hero_image_bg.png" alt="Data to Value — Value over Time" width="700">
+<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/hero_image_bg.png" alt="Data to Value — Value over Time" width="700">
 </div>
 
 <br>
@@ -81,25 +81,25 @@ A small team working fully remote across Europe:
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://datatovalue.com/rick_avatar.png" width="100" style="border-radius:50%"><br>
+<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/rick_avatar.png" width="100" style="border-radius:50%"><br>
 <b>Rick Dronkers</b><br>
 🇳🇱 Founder<br>
 <sub>Strategy & Architecture</sub>
 </td>
 <td align="center" width="200">
-<img src="https://datatovalue.com/avatar_peter_square_dtv_blue.png" width="100" style="border-radius:50%"><br>
+<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/avatar_peter_square_dtv_blue.png" width="100" style="border-radius:50%"><br>
 <b>Peter Šutarík</b><br>
 🇸🇰 Senior Consultant<br>
 <sub>Data Collection & Automation</sub>
 </td>
 <td align="center" width="200">
-<img src="https://datatovalue.com/avatar_krisz_square_dtv_blue.png" width="100" style="border-radius:50%"><br>
+<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/avatar_krisz_square_dtv_blue.png" width="100" style="border-radius:50%"><br>
 <b>Krisztián Korpa</b><br>
 🇭🇺 Senior Consultant<br>
 <sub>Dataform & BigQuery</sub>
 </td>
 <td align="center" width="200">
-<img src="https://datatovalue.com/daniel_avatar.png" width="100" style="border-radius:50%"><br>
+<img src="https://raw.githubusercontent.com/datatovalue/.github/main/profile/assets/daniel_avatar.png" width="100" style="border-radius:50%"><br>
 <b>Daniel Perry-Reed</b><br>
 🇬🇧 Senior Consultant<br>
 <sub>Attribution & Training</sub>
@@ -119,6 +119,6 @@ A small team working fully remote across Europe:
 <br>
 
 [![Website](https://img.shields.io/badge/Website-0045FF?style=flat-square&logo=google-chrome&logoColor=white)](https://datatovalue.com)
-[![Blog](https://img.shields.io/badge/Blog-0045FF?style=flat-square&logo=hashnode&logoColor=white)](https://datatovalue.com/blog/)
+[![Blog](https://img.shields.io/badge/Blog-0045FF?style=flat-square&logo=hashnode&logoColor=white)](https://datatovalue.blog)
 
 </div>
